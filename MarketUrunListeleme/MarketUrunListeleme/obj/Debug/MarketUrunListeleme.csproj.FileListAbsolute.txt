@@ -1,0 +1,11 @@
+C:\Users\TAHA\Desktop\MyWorkSpace\MarketUrunListeleme\MarketUrunListeleme\bin\Debug\MarketUrunListeleme.exe.config
+C:\Users\TAHA\Desktop\MyWorkSpace\MarketUrunListeleme\MarketUrunListeleme\bin\Debug\MarketUrunListeleme.exe
+C:\Users\TAHA\Desktop\MyWorkSpace\MarketUrunListeleme\MarketUrunListeleme\bin\Debug\MarketUrunListeleme.pdb
+C:\Users\TAHA\Desktop\MyWorkSpace\MarketUrunListeleme\MarketUrunListeleme\obj\Debug\MarketUrunListeleme.csproj.AssemblyReference.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\MarketUrunListeleme\MarketUrunListeleme\obj\Debug\MarketUrunListeleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\MarketUrunListeleme\MarketUrunListeleme\obj\Debug\MarketUrunListeleme.Form1.resources
+C:\Users\TAHA\Desktop\MyWorkSpace\MarketUrunListeleme\MarketUrunListeleme\obj\Debug\MarketUrunListeleme.Properties.Resources.resources
+C:\Users\TAHA\Desktop\MyWorkSpace\MarketUrunListeleme\MarketUrunListeleme\obj\Debug\MarketUrunListeleme.csproj.GenerateResource.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\MarketUrunListeleme\MarketUrunListeleme\obj\Debug\MarketUrunListeleme.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\MarketUrunListeleme\MarketUrunListeleme\obj\Debug\MarketUrunListeleme.exe
+C:\Users\TAHA\Desktop\MyWorkSpace\MarketUrunListeleme\MarketUrunListeleme\obj\Debug\MarketUrunListeleme.pdb
